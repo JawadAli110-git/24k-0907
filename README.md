@@ -7,4 +7,4 @@
 ### Goals:
 - My short-term goal is to gain more experience in software development, while my long-term goal is to contribute to innovative projects that make a positive impact on society.
 ### Contact:
-- Feel free to reach out to me at syed.jawad.zaidi72@gmail.com or connect with me on https://www.linkedin.com/in/jawad-ali
+- Feel free to reach out to me at ![gmail icon]([https://images.app.goo.gl/b2m2XWBhUJX6UQfG6](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png))syed.jawad.zaidi72@gmail.com or connect with me on https://www.linkedin.com/in/jawad-ali
